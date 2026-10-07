@@ -9,3 +9,7 @@ Total failed attempts: 6
   - 3 against invalid user fakeuser
   - 3 against valid user vboxuser
 Recommended actions: block attacker IP, disable password login and use SSH keys, install fail2ban, monitor auth logs.
+## Evidence
+![Kali attack](01-kali-attack.png)
+![Ubuntu logs](02-ubuntu-logs.png)
+![Script output](03-script-output.png)
