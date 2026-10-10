@@ -1,3 +1,5 @@
+**Related project:** [Wazuh SIEM Lab](https://github.com/prachipt08-10/wazuh-siem-lab) — the same attack detected and classified automatically by a real SIEM.
+
 # SSH Brute-Force Detection Lab
 
 A beginner SOC analyst lab where I attack my own virtual machines,
